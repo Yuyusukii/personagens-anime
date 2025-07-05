@@ -1,0 +1,660 @@
+[
+  {
+    "nome": "Megumi Fushiguro",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b126635-L0y3I92JSUkN.png",
+    "raridade": "lendário",
+    "life": 817,
+    "attack": 119
+  },
+  {
+    "nome": "Yuuji Itadori",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b127212-FVm2tD0erQ5B.png",
+    "raridade": "lendário",
+    "life": 812,
+    "attack": 117
+  },
+  {
+    "nome": "Nobara Kugisaki",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b133700-f6sOO3TcgLV6.png",
+    "raridade": "lendário",
+    "life": 821,
+    "attack": 97
+  },
+  {
+    "nome": "Satoru Gojou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b127691-9zqh1xpIubn7.png",
+    "raridade": "lendário",
+    "life": 859,
+    "attack": 114
+  },
+  {
+    "nome": "Sukuna",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b133701-rCQuDpHr3UZL.png",
+    "raridade": "lendário",
+    "life": 763,
+    "attack": 108
+  },
+  {
+    "nome": "Panda",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b137974-9qnK3DPrvLKh.jpg",
+    "raridade": "lendário",
+    "life": 828,
+    "attack": 123
+  },
+  {
+    "nome": "Toge Inumaki",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157115-kdhRYQdVhH95.png",
+    "raridade": "lendário",
+    "life": 924,
+    "attack": 94
+  },
+  {
+    "nome": "Maki Zenin",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b134167-5TCytk45YByD.png",
+    "raridade": "lendário",
+    "life": 950,
+    "attack": 102
+  },
+  {
+    "nome": "Kento Nanami",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b133704-8wLTGjc234q2.png",
+    "raridade": "lendário",
+    "life": 896,
+    "attack": 108
+  },
+  {
+    "nome": "Hanami",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b172743-4Y5SXqED6A3G.jpg",
+    "raridade": "raro",
+    "life": 352,
+    "attack": 52
+  },
+  {
+    "nome": "Mahito",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b133702-Y7JRG5vAvjIL.png",
+    "raridade": "lendário",
+    "life": 737,
+    "attack": 99
+  },
+  {
+    "nome": "Jougo",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b156991-niYjdp9CxO4w.png",
+    "raridade": "raro",
+    "life": 266,
+    "attack": 46
+  },
+  {
+    "nome": "Suguru Getou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b133699-FCnXaISgazAi.png",
+    "raridade": "lendário",
+    "life": 846,
+    "attack": 127
+  },
+  {
+    "nome": "Aoi Toudou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b137975-6TH7PiLWJaqy.png",
+    "raridade": "lendário",
+    "life": 819,
+    "attack": 92
+  },
+  {
+    "nome": "Kasumi Miwa",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png",
+    "raridade": "lendário",
+    "life": 840,
+    "attack": 109
+  },
+  {
+    "nome": "Mai Zenin",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg",
+    "raridade": "épico",
+    "life": 492,
+    "attack": 79
+  },
+  {
+    "nome": "Yoshinobu Gakuganji",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.png",
+    "raridade": "comum",
+    "life": 135,
+    "attack": 28
+  },
+  {
+    "nome": "Masamichi Yaga",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b189237-ZxNJwVPL8DvW.png",
+    "raridade": "raro",
+    "life": 389,
+    "attack": 41
+  },
+  {
+    "nome": "Shouko Ieiri",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b158154-UCqbiULli62P.png",
+    "raridade": "lendário",
+    "life": 856,
+    "attack": 99
+  },
+  {
+    "nome": "Kiyotaka Ijichi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b189238-ItSLams6lRk9.png",
+    "raridade": "raro",
+    "life": 234,
+    "attack": 43
+  },
+  {
+    "nome": "Junpei Yoshino",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157214-ROBNoXVEXRNy.jpg",
+    "raridade": "épico",
+    "life": 465,
+    "attack": 60
+  },
+  {
+    "nome": "Tsumiki Fushiguro",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b193479-aGNRmbU5jNwR.png",
+    "raridade": "raro",
+    "life": 236,
+    "attack": 53
+  },
+  {
+    "nome": "Wasuke Itadori",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b194074-SnbrUkHIyM62.png",
+    "raridade": "comum",
+    "life": 199,
+    "attack": 27
+  },
+  {
+    "nome": "Nobuko Takada",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b197119-Z2EBJXGTATzN.png",
+    "raridade": "raro",
+    "life": 363,
+    "attack": 36
+  },
+  {
+    "nome": "Kinji Hakari",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b197584-fK7Jc6DLfx7e.jpg",
+    "raridade": "lendário",
+    "life": 862,
+    "attack": 114
+  },
+  {
+    "nome": "Yuuta Okkotsu",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b129571-GHJk7gviHOOw.jpg",
+    "raridade": "lendário",
+    "life": 823,
+    "attack": 107
+  },
+  {
+    "nome": "Nagi Yoshino",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b194056-yEzHVaAF9eqJ.png",
+    "raridade": "comum",
+    "life": 146,
+    "attack": 17
+  },
+  {
+    "nome": "Noritoshi  Kamo",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+    "raridade": "raro",
+    "life": 306,
+    "attack": 46
+  },
+  {
+    "nome": "Utahime Iori",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
+    "raridade": "épico",
+    "life": 474,
+    "attack": 61
+  },
+  {
+    "nome": "Momo Nishimiya",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+    "raridade": "raro",
+    "life": 368,
+    "attack": 41
+  },
+  {
+    "nome": "Setsuko Sasaki",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b200765-xQLkNIRUGuQw.jpg",
+    "raridade": "comum",
+    "life": 151,
+    "attack": 12
+  },
+  {
+    "nome": "Seito Kaichou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b200766-nVpeCPCSCWZt.jpg",
+    "raridade": "comum",
+    "life": 178,
+    "attack": 24
+  },
+  {
+    "nome": "Takeshi Iguchi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b200767-bTqPLS2Jpiqf.png",
+    "raridade": "comum",
+    "life": 145,
+    "attack": 19
+  },
+  {
+    "nome": "Takagi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b200768-fgIRyfO8ABk2.jpg",
+    "raridade": "comum",
+    "life": 107,
+    "attack": 10
+  },
+  {
+    "nome": "Dagon",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b204383-5oTlVPpaCnM2.jpg",
+    "raridade": "comum",
+    "life": 166,
+    "attack": 11
+  },
+  {
+    "nome": "Sotomura",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b206208-ubr8Xv0u2FxD.png",
+    "raridade": "comum",
+    "life": 142,
+    "attack": 11
+  },
+  {
+    "nome": "Mei Mei",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157215-I3TQJu8nkDwD.jpg",
+    "raridade": "lendário",
+    "life": 762,
+    "attack": 91
+  },
+  {
+    "nome": "Naobito Zenin",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b188432-WePQBJsEuSts.png",
+    "raridade": "comum",
+    "life": 153,
+    "attack": 19
+  },
+  {
+    "nome": "Juuzou Kumiya",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b207988-GB9ZpnPA6dWQ.jpg",
+    "raridade": "comum",
+    "life": 165,
+    "attack": 19
+  },
+  {
+    "nome": "Yuki Tsukumo",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png",
+    "raridade": "épico",
+    "life": 641,
+    "attack": 60
+  },
+  {
+    "nome": "Haruta Shigemo",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b209694-xSS6FxN4al3l.png",
+    "raridade": "comum",
+    "life": 175,
+    "attack": 12
+  },
+  {
+    "nome": "Takuma Ino",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157865-X9ENX9OzWevS.jpg",
+    "raridade": "raro",
+    "life": 370,
+    "attack": 37
+  },
+  {
+    "nome": "Shouta Itou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210062-EIMZ4Nmvx6rP.png",
+    "raridade": "comum",
+    "life": 105,
+    "attack": 25
+  },
+  {
+    "nome": "Hijoushikina Isha",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210063-njPW9eSCTeiJ.png",
+    "raridade": "comum",
+    "life": 163,
+    "attack": 12
+  },
+  {
+    "nome": "Sam",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210064-6vFnZA9DoZYl.png",
+    "raridade": "comum",
+    "life": 189,
+    "attack": 24
+  },
+  {
+    "nome": "Chousou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b157116-2jYQf3y8NeTZ.png",
+    "raridade": "lendário",
+    "life": 863,
+    "attack": 123
+  },
+  {
+    "nome": "Esou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210831-wsucHRbSZjbV.png",
+    "raridade": "comum",
+    "life": 181,
+    "attack": 27
+  },
+  {
+    "nome": "Kechizu",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210832-d1Fg0CePSU86.png",
+    "raridade": "comum",
+    "life": 177,
+    "attack": 22
+  },
+  {
+    "nome": "Uraume",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210830-rJ8LVEvLUqjE.jpg",
+    "raridade": "comum",
+    "life": 200,
+    "attack": 13
+  },
+  {
+    "nome": "Akari Nitta",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+    "raridade": "raro",
+    "life": 354,
+    "attack": 49
+  },
+  {
+    "nome": "Takeda",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b222599-0eRcr9ezGaN0.png",
+    "raridade": "comum",
+    "life": 195,
+    "attack": 20
+  },
+  {
+    "nome": "Kenjaku",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+    "raridade": "raro",
+    "life": 352,
+    "attack": 46
+  },
+  {
+    "nome": "Yubi no Kishu",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b306189-NB0cd8fgzPYg.png",
+    "raridade": "comum",
+    "life": 198,
+    "attack": 20
+  },
+  {
+    "nome": "Koukichi Muta",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b210154-nIn9DX39GFKP.jpg",
+    "raridade": "raro",
+    "life": 235,
+    "attack": 46
+  },
+  {
+    "nome": "Tadashi Okazaki",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b306282-5a4wVsGJF5Tz.png",
+    "raridade": "comum",
+    "life": 108,
+    "attack": 27
+  },
+  {
+    "nome": "Orizuki",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b322042-NM7flYaGDuRg.png",
+    "raridade": "comum",
+    "life": 155,
+    "attack": 17
+  },
+  {
+    "nome": "Garuda",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b322043-50p14GPnxFqB.png",
+    "raridade": "comum",
+    "life": 161,
+    "attack": 23
+  },
+  {
+    "nome": "Tsumiki no Tomodachi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327851-lOwe68hdmlbP.png",
+    "raridade": "comum",
+    "life": 148,
+    "attack": 28
+  },
+  {
+    "nome": "Taichi Kanada",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b306276-7TczFlh38ICp.png",
+    "raridade": "comum",
+    "life": 119,
+    "attack": 15
+  },
+  {
+    "nome": "Tadashi Okazaki no Haha",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b306281-2TYVdsokBkIN.png",
+    "raridade": "comum",
+    "life": 101,
+    "attack": 16
+  },
+  {
+    "nome": "Kankoshi A",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327848-ppDKmMJ2MYRe.png",
+    "raridade": "comum",
+    "life": 148,
+    "attack": 15
+  },
+  {
+    "nome": "Manager",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327853-YQYinIPa4OsU.png",
+    "raridade": "comum",
+    "life": 169,
+    "attack": 24
+  },
+  {
+    "nome": "Kankoshi B",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327854-3seoCbIlcvLX.png",
+    "raridade": "comum",
+    "life": 162,
+    "attack": 23
+  },
+  {
+    "nome": "Fujinuma Imouto",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327857-mAfjwycUUmS9.png",
+    "raridade": "comum",
+    "life": 169,
+    "attack": 21
+  },
+  {
+    "nome": "Sawamura",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327856-vErAN3XccXlM.png",
+    "raridade": "comum",
+    "life": 132,
+    "attack": 12
+  },
+  {
+    "nome": "TV Shikai-sha",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327865-kSikWO13bTeJ.png",
+    "raridade": "comum",
+    "life": 108,
+    "attack": 26
+  },
+  {
+    "nome": "Tantei B",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327864-V54SmtccIlV8.png",
+    "raridade": "comum",
+    "life": 155,
+    "attack": 11
+  },
+  {
+    "nome": "Honda",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327863-gRFn7m3niNp1.png",
+    "raridade": "comum",
+    "life": 141,
+    "attack": 30
+  },
+  {
+    "nome": "Kumo no Noroi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327862-zx57slP3WdTn.png",
+    "raridade": "comum",
+    "life": 199,
+    "attack": 30
+  },
+  {
+    "nome": "Itamae",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327861-GzHrgCElevTE.png",
+    "raridade": "comum",
+    "life": 112,
+    "attack": 25
+  },
+  {
+    "nome": "Gakkou-chou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327868-ULa9XWL6spPz.png",
+    "raridade": "comum",
+    "life": 176,
+    "attack": 10
+  },
+  {
+    "nome": "Shachou",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327867-eVpSSc1rKe9O.png",
+    "raridade": "comum",
+    "life": 108,
+    "attack": 10
+  },
+  {
+    "nome": "Kyoushi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327871-Abtfs6joa4nb.png",
+    "raridade": "comum",
+    "life": 153,
+    "attack": 10
+  },
+  {
+    "nome": "Noritoshi no Haha",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327870-b6RSUCYvE57t.png",
+    "raridade": "comum",
+    "life": 122,
+    "attack": 27
+  },
+  {
+    "nome": "Pan-ya",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327869-YkgTuc7RI1Ok.png",
+    "raridade": "comum",
+    "life": 185,
+    "attack": 27
+  },
+  {
+    "nome": "Unten-sha",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327866-FniwcTRNpX1C.png",
+    "raridade": "comum",
+    "life": 187,
+    "attack": 19
+  },
+  {
+    "nome": "Junpei no Doukyuusei B",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327874-J1P57mvPUFIb.png",
+    "raridade": "comum",
+    "life": 185,
+    "attack": 27
+  },
+  {
+    "nome": "Tantei A",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327873-GvYUUiuV5CG1.png",
+    "raridade": "comum",
+    "life": 146,
+    "attack": 18
+  },
+  {
+    "nome": "Gal",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327872-n0QcQ6dxEkxC.png",
+    "raridade": "comum",
+    "life": 183,
+    "attack": 11
+  },
+  {
+    "nome": "Fujinuma Otouto",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327860-deFpNmaAR40T.png",
+    "raridade": "comum",
+    "life": 145,
+    "attack": 10
+  },
+  {
+    "nome": "Tsubasa",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327877-7hCKc4yhaX21.png",
+    "raridade": "comum",
+    "life": 160,
+    "attack": 24
+  },
+  {
+    "nome": "Takashi",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327876-qPUmd6Ab2sLE.png",
+    "raridade": "comum",
+    "life": 120,
+    "attack": 10
+  },
+  {
+    "nome": "Manager B",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327875-vGfJkymxvVzi.png",
+    "raridade": "comum",
+    "life": 167,
+    "attack": 28
+  },
+  {
+    "nome": "Aida",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327859-AhV2YpvX52rg.png",
+    "raridade": "comum",
+    "life": 133,
+    "attack": 18
+  },
+  {
+    "nome": "Fujinuma no Yuujin",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327858-hjQDB3xT8pmh.png",
+    "raridade": "comum",
+    "life": 184,
+    "attack": 20
+  },
+  {
+    "nome": "Kodomo",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327855-7lusC0WyZ0N5.png",
+    "raridade": "comum",
+    "life": 104,
+    "attack": 30
+  },
+  {
+    "nome": "Nishimura",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327879-8ZoQ8szzH2Ts.png",
+    "raridade": "comum",
+    "life": 150,
+    "attack": 30
+  },
+  {
+    "nome": "Sayama",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327878-7QfTl2L4WcxW.png",
+    "raridade": "comum",
+    "life": 155,
+    "attack": 30
+  },
+  {
+    "nome": "Ticket Urite",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327852-qQzvfJYuoxpq.png",
+    "raridade": "comum",
+    "life": 130,
+    "attack": 14
+  },
+  {
+    "nome": "Waitress",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327888-ftlpXnAh678F.png",
+    "raridade": "comum",
+    "life": 120,
+    "attack": 24
+  },
+  {
+    "nome": "Kankoshi C",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327886-SK2OEp32W8yl.png",
+    "raridade": "comum",
+    "life": 143,
+    "attack": 24
+  },
+  {
+    "nome": "Junpei no Doukyuusei A",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327885-mhnerhHO6Ggs.png",
+    "raridade": "comum",
+    "life": 129,
+    "attack": 24
+  },
+  {
+    "nome": "Waiter",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327883-clvhD5GBSzjz.png",
+    "raridade": "comum",
+    "life": 167,
+    "attack": 11
+  },
+  {
+    "nome": "Frodo",
+    "imagem": "https://s4.anilist.co/file/anilistcdn/character/large/b327880-kvT1dZ7kSNZa.png",
+    "raridade": "comum",
+    "life": 165,
+    "attack": 21
+  }
+]
